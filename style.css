@@ -2,9 +2,11 @@ body{
     text-align: center;
 }
 
-#videos iframe
-{
-    width: 80%;
+#video {
+
+    width:100%;
+    height: 500px;
+    border: none;
 }
 
 .my_nav_bar{
