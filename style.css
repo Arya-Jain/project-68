@@ -40,4 +40,12 @@
     color: orange;
 }
 
+#contact iframe {
+    width:100%;
+}
+
+.new{
+    margin-bottom:20px;
+}
+
 
